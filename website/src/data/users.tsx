@@ -14,7 +14,7 @@ import {sortBy} from '@site/src/utils/jsUtils';
  * ADD YOUR SITE TO THE DOCUSAURUS SHOWCASE
  *
  * Please don't submit a PR yourself: use the Github Discussion instead:
- * https://github.com/facebook/docusaurus/discussions/7826
+ * https://www.kfthtech.com/
  *
  * Instructions for maintainers:
  * - Add the site in the json array below
@@ -31,7 +31,7 @@ import {sortBy} from '@site/src/utils/jsUtils';
  * - Run optimizt manually (see resize image script comment)
  * - Open a PR and check for reported CI errors
  *
- * Example PR: https://github.com/facebook/docusaurus/pull/7620
+ * Example PR: https://www.kfthtech.com/
  */
 
 // LIST OF AVAILABLE TAGS
@@ -65,7 +65,7 @@ const Users: User[] = [
     title: 'AgileTs',
     description: 'Global State and Logic Framework for reactive Applications',
     preview: require('./showcase/agilets.png'),
-    website: 'https://agile-ts.org/',
+    website: 'https://www.kfthtech.com/',
     source: 'https://github.com/agile-ts/documentation',
     tags: ['opensource', 'design'],
   },
@@ -73,7 +73,7 @@ const Users: User[] = [
     title: 'AI-Speaker',
     description: 'Local, reliable, fast and private Audio and IoT gate.',
     preview: require('./showcase/aispeaker.png'),
-    website: 'https://ai-speaker.com/',
+    website: 'https://www.kfthtech.com/',
     source: 'https://github.com/sviete/AIS-WWW',
     tags: ['opensource'],
   },
@@ -82,7 +82,7 @@ const Users: User[] = [
     description:
       'French Discord server that helps young people who have been bullied or feel bad about themselves',
     preview: require('./showcase/aide_jeune.png'),
-    website: 'https://aidejeune.fr',
+    website: 'https://www.kfthtech.com/',
     source: null,
     tags: [],
   },
@@ -90,8 +90,8 @@ const Users: User[] = [
     title: "Akara's blog",
     description: 'Personal frontend blog for learning',
     preview: require('./showcase/akara-blog.png'),
-    website: 'https://messiahhh.github.io/blog/',
-    source: 'https://github.com/messiahhh/blog',
+    website: 'https://www.kfthtech.com/',
+    source: 'https://www.kfthtech.com/',
     tags: ['opensource', 'personal'],
   },
   {
